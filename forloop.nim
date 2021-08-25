@@ -1,10 +1,10 @@
-for n in 1 .. 10:  
-  echo n
+for a in 1 .. 10:  
+  echo a
 
 echo ""  # blank line
 
-for n in 1 ..< 10:  # If we want to iterate until a number (not including it), we can use ..<:
-  echo n
+for a in 1 ..< 10:  # If we want to iterate until a number (not including it), we can use ..<:
+  echo a
 
 # If we want to iterate through a range of (integer) numbers in Nim, the syntax for the iterable is start .. finish where start and finish are numbers. 
 # This will iterate through all the numbers between start and finish, including both start and finish.
@@ -18,3 +18,13 @@ let word = "Hello"
 for c in word:
 
   echo c
+
+
+echo ""
+
+for c in countdown(10, 2):  
+#To iterate through a range of numbers where the start is larger than finish, a similar function called countdown is used.
+  echo c
+
+
+
