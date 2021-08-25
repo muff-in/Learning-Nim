@@ -8,6 +8,8 @@ let y = readLine(stdin).parseInt()
 echo "The sum of first and second numbers is: ", x + y
 echo "Difference of first and second number is: ", x - y
 
+echo "" 
+
 
 echo "Enter a float number: "
 let f1 = readLine(stdin).parseFloat()
