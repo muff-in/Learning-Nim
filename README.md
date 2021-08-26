@@ -8,6 +8,9 @@ https://nim-lang.org/
 ## Documentation
 https://nim-lang.org/documentation.html
 
+## Example Codes
+https://rosettacode.org/wiki/Category:Nim
+
 ## Nim for C programmers
 https://github.com/nim-lang/Nim/wiki/Nim-for-C-programmers
 
