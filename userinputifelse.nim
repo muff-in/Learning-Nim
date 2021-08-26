@@ -1,3 +1,7 @@
+#[ Reading from a file or from a user input always gives a string as a result. 
+If we would like to use numbers, we need to convert strings to numbers. ]#
+# please check out parsing.nim & parsinguserinput.nim code for better understanding
+
 import strutils
 
 echo "Enter first number: "
