@@ -1,14 +1,97 @@
-# Nim Basics
+# Nim 
 
-## Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
-
+## Nim is a statically typed compiled systems programming language.
+https://nim-lang.org/
 
 # Resources
+
+## Documentation
+https://nim-lang.org/documentation.html
+
+## Nim for C programmers
+https://github.com/nim-lang/Nim/wiki/Nim-for-C-programmers
+
+## Nim for Python Programmers
+https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers
+
+## Why you should consider the Nim programming language
+https://dev.to/buildsavvy/why-you-should-consider-the-nim-programming-language-1bpb
 
 ## Computer Programming with the Nim Programming Language
 http://ssalewski.de/nimprogramming.html
 
-## 
+## Write an interpreter for the BrainF#@% programming language in Nim.
+https://howistart.org/posts/nim/1/index.html
+
+## Nim days book is about my journey using Nim and creating useful/practical things with it including:
+https://xmonader.github.io/nimdays/#nim-days
+
+## The Nim memory model
+http://zevv.nl/nim-memory/
+
+## NES emulator in Nim, SDL2 platformer, writing small binaries, etc.
+https://hookrace.net/blog/nim/
+
+## Options, File handling, stack vs heap (ref) objects, etc.
+https://peterme.net/
+
+## OOP in Nim, Arduino and Nim, and more.
+http://goran.krampe.se/category/nim/
+
+## Nim by Example
+https://nim-by-example.github.io/
+
+## Nim basics
+https://narimiran.github.io/nim-basics/
+
+## Nim Notes 
+https://scripter.co/notes/nim/
+
+## Nim Manual
+https://nim-lang.org/docs/manual.html
+
+## Nim Tutorial (Part I)
+https://nim-lang.org/docs/tut1.html
+
+## Nim Tutorial (Part II)
+https://nim-lang.org/docs/tut2.html
+
+## Nim Tutorial (Part III)
+https://nim-lang.org/docs/tut3.html
+
+## The Auditors Handbook to Nimbus Beacon Chain
+https://nimbus.guide/auditors-book/02_the_Nim_programming_language.html
+
+
+# Video Tutorials 
+
+## Nim Programming Language Youtube Channel
+https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q
+
+## Nim for Beginners
+https://www.youtube.com/playlist?list=PLvwc2YT9MFOlPPexrsY-t7BNTdg2Vsx06
+
+## Dominik Picheta: An intro to Nim for the uninitiated
+https://youtu.be/lxLL3km21Aw
+
+## NimConf 2020
+https://www.youtube.com/playlist?list=PLxLdEZg8DRwTIEzUpfaIcBqhsj09mLWHx
+
+## NimConf 2021
+https://www.youtube.com/playlist?list=PLxLdEZg8DRwRXNrY7yyGU0-g_GRSyRGKo
+
+## Nim programming tutorials 
+https://www.youtube.com/playlist?list=PLvxZJTnSXMLrCF9lXyg8D5kxTlXjwPsHE
+
+## Learning Nim
+https://www.youtube.com/playlist?list=PLu-ydI-PCl0PqxiYXQMmLh7wjQKm5Cz-H
+
+## Nim SDL2 Game Development for Beginners
+https://www.youtube.com/playlist?list=PLvwc2YT9MFOnIQpUj37ZcyAK5rqFK5Oh5
+
+## Exploring Nim's Standard Library
+https://www.youtube.com/playlist?list=PLvwc2YT9MFOm42eV6sRrtamYJ1tFoG91r
+
 
 # Some Facts About Nim
 
