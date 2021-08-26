@@ -19,6 +19,7 @@ let f2 = readLine(stdin).parseFloat()
 echo "The sum of first and second float numbers is: ", f1 + f2
 echo "Difference of first and second float number is: ", f1 - f2
 
-# Reading from a file or from a user input always gives a string as a result. 
-#If we would like to use numbers, we need to convert strings to numbers: 
-#we again use the strutils module and use parseInt to convert to integers or parseFloat to convert into a float.
+#[  Reading from a file or from a user input always gives a string as a result. 
+If we would like to use numbers, we need to convert strings to numbers: 
+we again use the strutils module and use parseInt to convert to integers, 
+parseFloat to convert into a float or parseDouble to convert into a double. ]#
