@@ -21,6 +21,9 @@ var  # ussing var like this so we don't have to type var again and again
     a3: array[3, string]
 
 
+echo a
+echo a2
+echo a3
 
 # Now this is how you can access the elements of the array by using stdout.writeLine Procedures
 
