@@ -48,7 +48,7 @@ else:
   echo "Hello, " , abc
 
   
-# CASE statements
+# CASE statements with user input
 
 echo "Enter your name: "
 
@@ -63,6 +63,42 @@ case name:
     echo  " Hello jon"
   else:
     echo " You name doesn't match."    
+
+
+# The case statement can deal with integers, other ordinal types, and strings.
+
+# Ranges
+
+# we use doubel periods to indicate a range
+
+import strutils # impoting the strutils module to use .parseInt() function
+
+echo "Type a number: "
+
+let number = readLine(stdin).parseInt()
+
+case number:
+  of 1..10:  # The first number is the start of the range, the second number is the end of the range
+    echo "Number is between 1 and 10"
+  of 11..100:
+    echo "Number is between 11 and 100"
+  of 101..1000:
+    echo "Number is between 101 and 1000"
+  else: discard  # The empty discard statement is a do nothing statement. 
+
+
+# another example of range with char
+
+echo "Type a letter: "
+
+let letter = readLine(stdin)
+
+case letter:
+  of "a".."g":  # we have to use double quotes for the range
+    echo "Letter is between a and g"
+  of "h".."z":
+    echo "Letter is between h and z"
+  else: discard  # The empty discard statement is a do nothing statement.
 
 
 
