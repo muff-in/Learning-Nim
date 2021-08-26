@@ -65,6 +65,7 @@ var b = 9 # Variable b is not evaluated at compile time.
 const c = b + 1 # and the value of const C can’t be known at compile time.
 echo c 
 
+# const a = readLine(stdin)  you can't change the value of const a 
 
 # LET
 

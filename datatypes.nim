@@ -54,5 +54,13 @@ echo someFloat1 + someInteger1.toFloat
 
 # we can add .toFloat to a integer and it will convert it to an float. We can also convert a float to an integer using .toInt.
 
+var someInteger3:int = 1
+var someFloat4:float = 2.3
+
+echo someFloat4.toInt + someInteger3
+
+#like this
+
+
 
 
