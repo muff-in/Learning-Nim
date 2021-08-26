@@ -3,13 +3,15 @@
 ## Nim is a statically typed compiled systems programming language.
 https://nim-lang.org/
 
+## Example Codes
+https://rosettacode.org/wiki/Category:Nim
+
 # Resources
 
 ## Documentation
 https://nim-lang.org/documentation.html
 
-## Example Codes
-https://rosettacode.org/wiki/Category:Nim
+
 
 ## Nim for C programmers
 https://github.com/nim-lang/Nim/wiki/Nim-for-C-programmers
