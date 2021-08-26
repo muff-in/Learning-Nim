@@ -48,3 +48,26 @@ else:
   echo "Hello, " , abc
 
   
+# CASE statements
+
+echo "Enter your name: "
+
+let name = readLine(stdin)
+
+case name:
+  of "nim":
+    echo "Hello min"
+  of "muffin":
+    echo "Hello muffin"
+  of "jon":
+    echo  " Hello jon"
+  else:
+    echo " You name doesn't match."    
+
+
+
+
+
+  
+
+
