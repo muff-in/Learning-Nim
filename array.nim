@@ -32,3 +32,5 @@ stdout.writeLine(abc[0])  #stdout.writeLine(nameofarray[index])
 # or
 
 stdout.write abc[0]   # this is the same as above. You gonna love these syntax flexibity in nim
+
+# stdout.writeLine is a procedure that output to the screen 
