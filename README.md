@@ -14,6 +14,11 @@ Internet of Things (IoT) devices, which are physical devices with embedded elect
 ## Above points are from the book "Nim in Action" 
 https://livebook.manning.com/book/nim-in-action/chapter-1/ (you can read three chapters for free)
 
+
+# Package Manager
+Nimble (https://nimble.directory/)
+
+
 # Blogs about Nim
 ## Documentation
 https://nim-lang.org/documentation.html
