@@ -67,7 +67,7 @@ case name:
 
 # The case statement can deal with integers, other ordinal types, and strings.
 
-# Ranges
+#  Ranges with case statements
 
 # we use doubel periods to indicate a range
 
@@ -85,25 +85,3 @@ case number:
   of 101..1000:
     echo "Number is between 101 and 1000"
   else: discard  # The empty discard statement is a do nothing statement. 
-
-
-# another example of range with char
-
-echo "Type a letter: "
-
-let letter = readLine(stdin)
-
-case letter:
-  of "a".."g":  # we have to use double quotes for the range
-    echo "Letter is between a and g"
-  of "h".."z":
-    echo "Letter is between h and z"
-  else: discard  # The empty discard statement is a do nothing statement.
-
-
-
-
-
-  
-
-
