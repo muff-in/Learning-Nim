@@ -14,16 +14,35 @@ Nim is a compiled language, but the way in which it’s compiled is special. Whe
 
 Internet of Things (IoT) devices, which are physical devices with embedded electronics that are connected to the internet, are good targets for Nim, primarily thanks to the power offered by Nim’s ease of use and its systems programming capabilities.
 
+# Above points are from the book "Nim in Action" 
+https://livebook.manning.com/book/nim-in-action/chapter-1/ (you can read three chapters for free)
 
+## How to Start? (Cool Site)
+https://howistart.org/
 
+https://howistart.org/posts/nim/1/
 
 ## Example Codes
 https://rosettacode.org/wiki/Category:Nim
+
+## Benchmarks of the longest path problem in various languages
+https://github.com/logicchains/LPATHBench/blob/master/writeup.md
 
 # Resources
 
 ## Documentation
 https://nim-lang.org/documentation.html
+
+## Nim binary size from 160 KB to 150 Bytes
+https://hookrace.net/blog/nim-binary-size/
+
+## What is special about Nim?
+https://hookrace.net/blog/what-is-special-about-nim/
+
+## What makes Nim practical?
+https://hookrace.net/blog/what-makes-nim-practical/
+
+## https://hookrace.net/blog/conclusion-on-nim/
 
 
 
