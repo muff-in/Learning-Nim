@@ -11,24 +11,21 @@ Nim is a compiled language, but the way in which it’s compiled is special. Whe
 
 Internet of Things (IoT) devices, which are physical devices with embedded electronics that are connected to the internet, are good targets for Nim, primarily thanks to the power offered by Nim’s ease of use and its systems programming capabilities.
 
-# Above points are from the book "Nim in Action" 
+## Above points are from the book "Nim in Action" 
 https://livebook.manning.com/book/nim-in-action/chapter-1/ (you can read three chapters for free)
 
 # Blogs about Nim
+## Documentation
+https://nim-lang.org/documentation.html
 
-## How to Start? (Cool Site)
-https://howistart.org/
-
-https://howistart.org/posts/nim/1/
+## Benchmarking the Beast
+https://nim-lang.org/blog/2021/07/28/Nim-Efficient-Expressive-Elegant-Benchmarking.html
 
 ## Example Codes
 https://rosettacode.org/wiki/Category:Nim
 
 ## Benchmarks of the longest path problem in various languages
 https://github.com/logicchains/LPATHBench/blob/master/writeup.md
-
-## Documentation
-https://nim-lang.org/documentation.html
 
 ## Nim binary size from 160 KB to 150 Bytes
 https://hookrace.net/blog/nim-binary-size/
@@ -64,6 +61,9 @@ https://nim-lang.org/docs/tut3.html
 
 ## Computer Programming with the Nim Programming Language
 http://ssalewski.de/nimprogramming.html
+
+## How to start?
+https://howistart.org/posts/nim/1/
 
 ## Write an interpreter for the BrainF#@% programming language in Nim.
 https://howistart.org/posts/nim/1/index.html
@@ -160,5 +160,3 @@ https://www.youtube.com/playlist?list=PLvwc2YT9MFOm42eV6sRrtamYJ1tFoG91r
 > Usage of external libraries written in C is easy and and occurs directly without any glue code, and Nim can even work together with code written in other languages, for example there are some Nim <-> Python interfaces available.
 
 > Many popular editors have support for Nim syntax highlighting and other IDE functionality like on-the-fly checking for errors and displaying detailed information about imported functions.
-
-> In the last few years Nim has reached some important milestones: Version 1.0 with some stability promises was released, and with the ARC and ORC memory management strategies and full destructor support fully deterministic memory management comparable to memory management in C++ or Rust is available. So problems of conventional garbage collectors like delayed memory deallocation or longer pausing of programs due to the GC process are gone. And some larger companies have started using Nim in production, the most important may be currently the Status Corp. with their Etherium client development.
