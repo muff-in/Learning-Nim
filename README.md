@@ -14,6 +14,8 @@ Internet of Things (IoT) devices, which are physical devices with embedded elect
 # Above points are from the book "Nim in Action" 
 https://livebook.manning.com/book/nim-in-action/chapter-1/ (you can read three chapters for free)
 
+# Blogs about Nim
+
 ## How to Start? (Cool Site)
 https://howistart.org/
 
@@ -24,8 +26,6 @@ https://rosettacode.org/wiki/Category:Nim
 
 ## Benchmarks of the longest path problem in various languages
 https://github.com/logicchains/LPATHBench/blob/master/writeup.md
-
-# Resources
 
 ## Documentation
 https://nim-lang.org/documentation.html
@@ -50,6 +50,17 @@ https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers
 
 ## Why you should consider the Nim programming language
 https://dev.to/buildsavvy/why-you-should-consider-the-nim-programming-language-1bpb
+
+# Resources
+
+## Nim Tutorial (Part I)
+https://nim-lang.org/docs/tut1.html
+
+## Nim Tutorial (Part II)
+https://nim-lang.org/docs/tut2.html
+
+## Nim Tutorial (Part III)
+https://nim-lang.org/docs/tut3.html
 
 ## Computer Programming with the Nim Programming Language
 http://ssalewski.de/nimprogramming.html
@@ -84,26 +95,17 @@ https://scripter.co/notes/nim/
 ## Nim Manual
 https://nim-lang.org/docs/manual.html
 
-## Nim Tutorial (Part I)
-https://nim-lang.org/docs/tut1.html
-
-## Nim Tutorial (Part II)
-https://nim-lang.org/docs/tut2.html
-
-## Nim Tutorial (Part III)
-https://nim-lang.org/docs/tut3.html
-
 ## The Auditors Handbook to Nimbus Beacon Chain
 https://nimbus.guide/auditors-book/02_the_Nim_programming_language.html
 
 
 # Video Tutorials 
 
-## Nim Programming Language Youtube Channel
-https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q
-
 ## Nim for Beginners
 https://www.youtube.com/playlist?list=PLvwc2YT9MFOlPPexrsY-t7BNTdg2Vsx06
+
+## Nim Programming Language Youtube Channel
+https://www.youtube.com/channel/UCDAYn_VFt0VisL5-1a5Dk7Q
 
 ## Dominik Picheta: An intro to Nim for the uninitiated
 https://youtu.be/lxLL3km21Aw
@@ -160,4 +162,3 @@ https://www.youtube.com/playlist?list=PLvwc2YT9MFOm42eV6sRrtamYJ1tFoG91r
 > Many popular editors have support for Nim syntax highlighting and other IDE functionality like on-the-fly checking for errors and displaying detailed information about imported functions.
 
 > In the last few years Nim has reached some important milestones: Version 1.0 with some stability promises was released, and with the ARC and ORC memory management strategies and full destructor support fully deterministic memory management comparable to memory management in C++ or Rust is available. So problems of conventional garbage collectors like delayed memory deallocation or longer pausing of programs due to the GC process are gone. And some larger companies have started using Nim in production, the most important may be currently the Status Corp. with their Etherium client development.
-
