@@ -1,6 +1,8 @@
 # Nim 
 
-## Nim is a statically typed compiled systems programming language.
+## What is Nim?
+NNim is a statically typed compiled systems programming language designed to be efficient, expressive, and elegant. These three goals are difficult to achieve at the same time, so Nim’s designers gave each of them different priorities, with efficiency being the most important and elegance being the least.
+Nim was designed to be a general-purpose programming language from the outset. As such, it consists of a wide range of features that make it usable for just about any software project. This makes it a good candidate for writing software in a wide variety of application domains, ranging from web applications to kernels.
 https://nim-lang.org/
 
 ## Example Codes
