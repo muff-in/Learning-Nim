@@ -1,9 +1,21 @@
 # Nim 
 
 ## What is Nim?
-NNim is a statically typed compiled systems programming language designed to be efficient, expressive, and elegant. These three goals are difficult to achieve at the same time, so Nim’s designers gave each of them different priorities, with efficiency being the most important and elegance being the least.
+Nim is a statically typed compiled systems programming language designed to be efficient, expressive, and elegant. These three goals are difficult to achieve at the same time, so Nim’s designers gave each of them different priorities, with efficiency being the most important and elegance being the least.
 Nim was designed to be a general-purpose programming language from the outset. As such, it consists of a wide range of features that make it usable for just about any software project. This makes it a good candidate for writing software in a wide variety of application domains, ranging from web applications to kernels.
 https://nim-lang.org/
+
+## Use
+Nim was designed to be a general-purpose programming language from the outset. As such, it consists of a wide range of features that make it usable for just about any software project. This makes it a good candidate for writing software in a wide variety of application domains, ranging from web applications to kernels. In this section, I’ll discuss how Nim’s features and programming support apply in several use cases.
+
+Although Nim may support practically any application domain, this doesn’t make it the right choice for everything. Certain aspects of the language make it more suitable for some categories of applications than others. This doesn’t mean that some applications can’t be written using Nim; it just means that Nim may not support the code styles that are best suited for writing some kinds of applications.
+
+Nim is a compiled language, but the way in which it’s compiled is special. When the Nim compiler compiles source code, it first translates the code into C code. C is an old but well supported systems programming language that allows easier and more direct access to the physical hardware of the machine. This makes Nim well suited to systems programming, allowing projects such as operating systems (OSs), compilers, device drivers, and embedded system software to be written.
+
+Internet of Things (IoT) devices, which are physical devices with embedded electronics that are connected to the internet, are good targets for Nim, primarily thanks to the power offered by Nim’s ease of use and its systems programming capabilities.
+
+
+
 
 ## Example Codes
 https://rosettacode.org/wiki/Category:Nim
