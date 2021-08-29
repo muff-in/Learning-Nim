@@ -6,7 +6,7 @@ var num2: float
 var result: float
 
 while true:
-    echo "Choose your action: Add, Sub, Multiply, Divide, Percentage, Marks Percentage, Exit (case sensetive)"
+    echo "Choose your action: Add, Sub, Multiply, Divide, Percentage, Exit (case sensetive)"
 
     userInput = stdin.readLine()
     if userInput == "Exit":
