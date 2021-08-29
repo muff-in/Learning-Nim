@@ -37,3 +37,15 @@ stdout.writeLine(abc[0])  #stdout.writeLine(nameofarray[index])
 stdout.write abc[0]   # this is the same as above. You gonna love these syntax flexibity in nim
 
 # stdout.writeLine is a procedure that output to the screen 
+
+
+
+# chnaging the value of the array of the index 
+
+var array3 = [2, 5, 3]
+
+array3[0] = 20          # this is how you change the value of the array
+
+echo a
+
+
