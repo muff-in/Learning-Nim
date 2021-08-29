@@ -1,3 +1,4 @@
+# make temporary variable a 
 for a in 1 .. 10:  
   echo a
 
